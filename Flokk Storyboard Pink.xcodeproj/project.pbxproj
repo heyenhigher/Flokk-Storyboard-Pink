@@ -34,6 +34,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7F8BF29D1FE8352E00A93543 /* JosefinSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-Bold.ttf"; sourceTree = "<group>"; };
+		7F8BF29E1FE8352E00A93543 /* JosefinSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JosefinSans-Regular.ttf"; sourceTree = "<group>"; };
 		7FEBCAEE1FE8334600BED025 /* Flokk Storyboard Pink.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flokk Storyboard Pink.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FEBCAF11FE8334600BED025 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FEBCAF31FE8334600BED025 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,8 @@
 				7FEBCAF11FE8334600BED025 /* AppDelegate.swift */,
 				7FEBCAF31FE8334600BED025 /* ViewController.swift */,
 				7FEBCAF51FE8334600BED025 /* Main.storyboard */,
+				7F8BF29D1FE8352E00A93543 /* JosefinSans-Bold.ttf */,
+				7F8BF29E1FE8352E00A93543 /* JosefinSans-Regular.ttf */,
 				7FEBCAF81FE8334600BED025 /* Assets.xcassets */,
 				7FEBCAFA1FE8334600BED025 /* LaunchScreen.storyboard */,
 				7FEBCAFD1FE8334600BED025 /* Info.plist */,
